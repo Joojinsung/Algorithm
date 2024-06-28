@@ -24,7 +24,6 @@ public class 올바른_괄호 {
                     stack.push(String.valueOf(str.charAt(i)));
                 } else if (!stack.isEmpty()) {
                     stack.pop();
-
                 }
             }
 
