@@ -27,7 +27,6 @@ public class 팰린드롬수 {
                 System.out.println("no");
             }
         }
-
         sc.close();
     }
 }
